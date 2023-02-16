@@ -13,19 +13,19 @@ You can find a calendar of future and past sessions on the [GSSI Indico](https:/
 
 #### Past sessions
 
-- 2022-06-23: git and versioning by Jacopo Tissino:
-    - [Indico page](https://indico.gssi.it/event/454/),
-    - [reference repository](https://github.com/fellowship-of-clean-code/git-versioning),
-    - [recording of the session](https://www.youtube.com/watch?v=EYB9jgOvfH0), the audio is not great but the screen is clearly visible);
-- 2023-01-19: modern C++ by Carmelo Evoli:
-    - [Indico page](https://indico.gssi.it/event/451/),
+- 2023-02-16: modern C++ by Carmelo Evoli:
+    - [Indico page](https://indico.gssi.it/event/453/),
     - [reference repository](https://github.com/fellowship-of-clean-code/APrimerOnModernCpp),
-    - no recording is available due to a technical issue;
 - 2023-02-02: Automated testing basics by Jacopo Tissino & Alex Coto:
     - [Indico page](https://indico.gssi.it/event/452/),
     - [reference repository](https://github.com/fellowship-of-clean-code/testing),
     - [recording of the session](https://www.youtube.com/watch?v=JyfCxCylCZ0));
-- 2023-02-16: modern C++ by Carmelo Evoli:
-    - [Indico page](https://indico.gssi.it/event/453/),
+- 2023-01-19: modern C++ by Carmelo Evoli:
+    - [Indico page](https://indico.gssi.it/event/451/),
     - [reference repository](https://github.com/fellowship-of-clean-code/APrimerOnModernCpp),
- 
+    - no recording is available due to a technical issue;
+ - 2022-06-23: git and versioning by Jacopo Tissino:
+    - [Indico page](https://indico.gssi.it/event/454/),
+    - [reference repository](https://github.com/fellowship-of-clean-code/git-versioning),
+    - [recording of the session](https://www.youtube.com/watch?v=EYB9jgOvfH0), the audio is not great but the screen is clearly visible);
+

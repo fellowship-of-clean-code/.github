@@ -16,6 +16,7 @@ You can find a calendar of future and past sessions on the [GSSI Indico](https:/
 - 2023-02-16: modern C++ by Carmelo Evoli:
     - [Indico page](https://indico.gssi.it/event/453/),
     - [reference repository](https://github.com/fellowship-of-clean-code/APrimerOnModernCpp),
+    - [recording of the session](https://youtu.be/84nn6ZIJmzU),
 - 2023-02-02: Automated testing basics by Jacopo Tissino & Alex Coto:
     - [Indico page](https://indico.gssi.it/event/452/),
     - [reference repository](https://github.com/fellowship-of-clean-code/testing),

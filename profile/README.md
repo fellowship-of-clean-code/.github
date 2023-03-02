@@ -13,6 +13,10 @@ You can find a calendar of future and past sessions on the [GSSI Indico](https:/
 
 #### Past sessions
 
+- 2023-03-02: Python project management by Jacopo Tissino:
+    - [Indico page](https://indico.gssi.it/event/488/),
+    - [reference repository](https://github.com/fellowship-of-clean-code/python-project-organization),
+    - [recording of the session](https://www.youtube.com/watch?v=vBkQmXMGJfg),
 - 2023-02-16: modern C++ by Carmelo Evoli:
     - [Indico page](https://indico.gssi.it/event/453/),
     - [reference repository](https://github.com/fellowship-of-clean-code/APrimerOnModernCpp),

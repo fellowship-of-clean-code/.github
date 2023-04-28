@@ -13,6 +13,13 @@ You can find a calendar of future and past sessions on the [GSSI Indico](https:/
 
 #### Past sessions
 
+- 2023-04-28: Literate programming by Riccardo Gesué:
+    - [Indico page](https://indico.gssi.it/event/524/),
+    - [reference repository](https://github.com/fellowship-of-clean-code/literate-programming),
+    - [recording of the session](https://www.youtube.com/watch?v=LdJ1axtQnto),
+- 2023-03-30: Class design by Carmelo Evoli:
+    - [Indico page](https://indico.gssi.it/event/490/),
+    - [recording of the session](https://www.youtube.com/watch?v=kZR4muwYZT0), audio is unfortunately broken,
 - 2023-03-02: Python project management by Jacopo Tissino:
     - [Indico page](https://indico.gssi.it/event/488/),
     - [reference repository](https://github.com/fellowship-of-clean-code/python-project-organization),
